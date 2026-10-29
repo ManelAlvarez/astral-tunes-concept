@@ -8,11 +8,13 @@ This repository showcases the core visual frontend concept and layout architectu
 
 The application's interface moves away from passive database scrolling and introduces two primary, highly interactive visualization layers:
 
+<img width="896" height="1200" alt="ASSESSING MUSIC TRACKS" src="https://github.com/user-attachments/assets/d234f4cd-9e00-4bec-bfeb-ebc2c87d4e13" />
 ### 1. The Central Coordinate Multi-Dial
 *   **Segmented Control:** A symmetrical, circular navigation dial featuring five distinct color vectors acting as an intuitive audio assessment steering wheel.
 *   **IP Protection / Hidden Metadata:** To protect the unique proprietary classification framework and core intellectual property (IP) during this public concept phase, the specific names and psychological coordinates of the 5 energy sectors are intentionally hidden in this repository. In the full application, these names are crucial for deep music navigation and user understanding.
 *   **Intuitive Interaction:** The wheel serves as a direct input tool, allowing music lovers to sculpt their listening stream by seamlessly morphing through energetic balance states.
 
+<img width="588" height="1102" alt="ACCESSING MUSIC TRACKS" src="https://github.com/user-attachments/assets/67079226-4f9a-4a3b-b1c8-220f39fc0b99" />
 ### 2. The Fluid Multi-Axis Vector Field
 *   **Harmonic Cross-Genre Mapping:** Tracks are plotted dynamically onto a vibrant, continuous multi-axis coordinate grid based on structural energy flow.
 *   **Unsuspected Discoveries:** Because the algorithm tracks energetic vectors rather than tags, a low-key acoustic track and an ambient electronic soundscape can seamlessly map to the exact same visual coordinates—bridging entirely different musical eras and artists effortlessly.
